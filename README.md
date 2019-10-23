@@ -1,2 +1,3 @@
 # erickawaguchi.github.io
-Github repository of personal website
+
+Visit my website here: 
